@@ -1,2 +1,2 @@
 # enrollment-system
-enrollment system frontend vb6
+enrollment system frontend VB6
