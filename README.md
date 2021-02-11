@@ -1,2 +1,2 @@
 ## enrollment-system
-enrollment system frontend VB6
+VB6 frontend for listing and printing stuff
